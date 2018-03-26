@@ -181,15 +181,15 @@ th {
 }
 ::selection {
   background: #262a30;
-  color: #fff;
+  color: #222;
 }
 body {
   position: relative;
   font-family: 'Lato', "PingFang SC", "Microsoft YaHei", sans-serif;
   font-size: 14px;
   line-height: 2;
-  color: #555;
-  background: #fff;
+  color: #f5f5f5;
+  background: #222;
 }
 @media (max-width: 767px) {
   body {
@@ -277,15 +277,15 @@ p {
   margin: 0 0 20px 0;
 }
 a {
-  color: #555;
+  color: #0684bd;
   text-decoration: none;
   outline: none;
   border-bottom: 1px solid #999;
   word-wrap: break-word;
 }
 a:hover {
-  color: #222;
-  border-bottom-color: #222;
+  color: #87daff;
+  border-bottom-color: #fc6423;
 }
 blockquote {
   margin: 0;
@@ -499,7 +499,7 @@ code {
   padding: 2px 4px;
   word-wrap: break-word;
   color: #555;
-  background: #eee;
+  background: #bbb;
   border-radius: 3px;
   font-size: 13px;
 }
@@ -921,7 +921,7 @@ pre .javascript .function {
 }
 .post-body .tabs ul.nav-tabs li.tab.active a {
   cursor: default;
-  color: #555;
+  color: #0684bd;
 }
 .post-body .tabs .tab-content {
   background-color: #fff;
@@ -967,7 +967,7 @@ pre .javascript .function {
   display: block;
   width: 22px;
   height: 2px;
-  background: #555;
+  background: #f5f5f5;
   border-radius: 1px;
 }
 .btn-bar+.btn-bar {
@@ -1577,11 +1577,11 @@ pre .javascript .function {
   display: block;
   line-height: 25px;
   font-size: 14px;
-  color: #555;
+  color: #0684bd;
   border-bottom: none;
 }
 .post-nav-item a:hover {
-  color: #222;
+  color: #87daff;
   border-bottom: none;
 }
 .post-nav-item a:active {
@@ -1822,7 +1822,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #a4ff83;
+  background: #b675ff;
 }
 .links-of-blogroll {
   font-size: 13px;
