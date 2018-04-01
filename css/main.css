@@ -1974,7 +1974,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #d0f22e;
+  background: #8bffff;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2523,6 +2523,7 @@ pre .javascript .function {
   background-color: rgba(0,0,0,0.3);
 }
 .algolia-popup {
+  z-index: 100;
   overflow: hidden;
   padding: 0;
   display: none;
@@ -3430,7 +3431,7 @@ pre .javascript .function {
   }
 }
 .header-inner {
-  opacity: 0.8;
+  opacity: 1;
 }
 .main-inner {
   opacity: 0.7;
