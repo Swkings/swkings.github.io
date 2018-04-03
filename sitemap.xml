@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://swking.cn/about/index.html</loc>
+    
+    <lastmod>2018-04-03T07:50:58.062Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://swking.cn/Oracle.html</loc>
     
-    <lastmod>2018-04-01T10:36:07.993Z</lastmod>
+    <lastmod>2018-04-03T07:30:48.232Z</lastmod>
     
   </url>
   
@@ -33,13 +40,6 @@
     <loc>http://swking.cn/%E5%B0%86%E6%80%9D%E5%BF%B5%E5%85%A5%E9%AA%A8.html</loc>
     
     <lastmod>2018-04-01T09:34:53.516Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://swking.cn/home/index.html</loc>
-    
-    <lastmod>2018-03-26T14:13:33.512Z</lastmod>
     
   </url>
   
