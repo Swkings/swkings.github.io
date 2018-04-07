@@ -48,7 +48,13 @@ window.onload = function() {
     window.onresize = function() {
         resizeWindow();
     }
+    info();
     addListen();
+}
+var info = function() {
+    document.getElementById('close').addEventListener('click', function() {
+        document.getElementById('igno').style.display = 'none';
+    });
 }
 var resizeWindow = function() {
     var width = document.body.clientWidth;
