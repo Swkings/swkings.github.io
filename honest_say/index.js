@@ -3,6 +3,7 @@ const MatriX = {
     "oe": 0,
     "n": 0,
     "z": 0,
+    "on": 0,
 
     "oK": 1,
     "6": 1,
@@ -11,6 +12,7 @@ const MatriX = {
     "ow": 2,
     "-": 2,
     "A": 2,
+    "oc": 2,
 
     "oi": 3,
     "o": 3,
@@ -19,6 +21,7 @@ const MatriX = {
     "7e": 4,
     "v": 4,
     "P": 4,
+    "7n": 4,
 
     "7K": 5,
     "4": 5,
@@ -36,6 +39,7 @@ const MatriX = {
     "Ne": 8,
     "c": 8,
     "F": 8,
+    "Nn": 8,
 
     "NK": 9,
     "E": 9,
@@ -92,30 +96,74 @@ var clearAnalyse = function() {
 
 
 var addListen = function() {
-    var start = document.getElementById('start');
-    var analyse = document.getElementById('analyse');
-    start.addEventListener('click', getToken);
-    analyse.addEventListener('click', Analyse);
-}
+        var start = document.getElementById('start');
+        var analyse = document.getElementById('analyse');
+        start.addEventListener('click', getToken);
+        analyse.addEventListener('click', Analyse);
+    }
+    // var QQ = function(input) {
+    //     var has = true;
+    //     var str = '';
+    //     while (input.length > 0) {
+    //         has = MatriX[input.substr(0, 2)];
+    //         if (has) {
+    //             str += has;
+    //             input = input.substr(2);
+    //         } else {
+    //             var temp = MatriX[input.substr(0, 1)];
+    //             if (temp == undefined) {
+    //                 temp = '';
+    //             }
+    //             str += temp;
+    //             input = input.substr(1);
+    //         }
+    //     }
+    //     return str;
+    // };
+
+//2112 11 2112            2112 11 211
 var QQ = function(input) {
-    var has = true;
     var str = '';
-    while (input.length > 0) {
-        has = MatriX[input.substr(0, 2)];
-        if (has) {
-            str += has;
-            input = input.substr(2);
-        } else {
-            var temp = MatriX[input.substr(0, 1)];
-            if (temp == undefined) {
-                temp = '';
+    if (input.length == 12) {
+        str += MatriX[input.substr(0, 2)] + '' +
+            MatriX[input.substr(2, 1)] + '' +
+            MatriX[input.substr(3, 1)] + '' +
+            MatriX[input.substr(4, 2)] + '' +
+            MatriX[input.substr(6, 1)] + '' +
+            MatriX[input.substr(7, 1)] + '' +
+            MatriX[input.substr(8, 2)] + '' +
+            MatriX[input.substr(10, 1)] + '' +
+            MatriX[input.substr(11, 1)];
+    } else if (input.length == 14) {
+        str += MatriX[input.substr(0, 2)] + '' +
+            MatriX[input.substr(2, 1)] + '' +
+            MatriX[input.substr(3, 1)] + '' +
+            MatriX[input.substr(4, 2)] + '' +
+            MatriX[input.substr(6, 1)] + '' +
+            MatriX[input.substr(7, 1)] + '' +
+            MatriX[input.substr(8, 2)] + '' +
+            MatriX[input.substr(10, 1)] + '' +
+            MatriX[input.substr(11, 1)] + '' +
+            MatriX[input.substr(12, 2)];
+    } else {
+        var has = true;
+        while (input.length > 0) {
+            has = MatriX[input.substr(0, 2)];
+            if (has) {
+                str += has;
+                input = input.substr(2);
+            } else {
+                var temp = MatriX[input.substr(0, 1)];
+                if (temp == undefined) {
+                    temp = '';
+                }
+                str += temp;
+                input = input.substr(1);
             }
-            str += temp;
-            input = input.substr(1);
         }
     }
-    return str;
-};
+    return str.replace('undefined', '');
+}
 
 var Analyse = function() {
     var str = document.getElementById('text1');
@@ -125,6 +173,7 @@ var Analyse = function() {
     var html = '<table style="border-spacing: 10px"><tbody><tr><th>QQ</th><th>坦白说</th></tr>';
     dataList.forEach(element => {
         Qnum = QQ(element.fromEncodeUin.substr(4));
+        console.log(element.fromEncodeUin.substr(4));
         topic = element.topicName;
         html += '<tr><td>' + Qnum + '</td><td>' + topic + '</td></tr>';
     });
