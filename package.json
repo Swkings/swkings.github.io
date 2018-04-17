@@ -31,6 +31,6 @@
         "gulp-uglify": "^3.0.0"
     },
     "scripts": {
-        "pull": "hexo clean && hexo g && gulp && hexo d"
+        "push": "hexo clean && hexo g && gulp && hexo d && hexo algolia"
     }
 }
