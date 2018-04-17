@@ -5,10 +5,41 @@
             
                 <url>
                     <loc>
+                        http://swking.cn/swk/7f187c1c/
+                    </loc>
+                    <lastmod>
+                        2018-04-17T06:24:33.084Z
+                    </lastmod>
+                    <data>
+        <display>
+        <title>贪心法求解TSP旅行商问题</title>
+        <pubTime>2018-04-14T04:39:36.000Z</pubTime>
+        
+        <tag>TSP</tag>
+         
+        <tag>旅行商</tag>
+         
+        <tag>最短路径</tag>
+         
+         
+           
+             
+              <breadCrumb title="算法" url="http://swking.cn/categories/%E7%AE%97%E6%B3%95/"/>
+          
+             
+              <breadCrumb title="贪心法" url="http://swking.cn/categories/%E7%AE%97%E6%B3%95/%E8%B4%AA%E5%BF%83%E6%B3%95/"/>
+          
+        </display>
+    </data>
+                </url>
+                
+            
+                <url>
+                    <loc>
                         http://swking.cn/swk/6ebc1f2f/
                     </loc>
                     <lastmod>
-                        2018-04-13T02:56:42.099Z
+                        2018-04-13T03:05:53.542Z
                     </lastmod>
                     <data>
         <display>
