@@ -74,6 +74,7 @@ minpath[n+1]:由于路径是回路，所以记录的节点为n+1个
 
 ```cpp
 /**
+* @author Swking
 * @method TSP_Greedy
 * @parame
 *    Node* Np 节点结构体数组

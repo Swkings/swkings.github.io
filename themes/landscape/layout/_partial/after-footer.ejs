@@ -23,3 +23,6 @@
 
                         <%- js('js/script') %>
                             <%- partial('gauges-analytics') %>
+                                <% if (page.mathjax){ %>
+                                    <%- partial('plugin/mathjax') %>
+                                        <% } %>
