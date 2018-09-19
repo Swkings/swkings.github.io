@@ -44,6 +44,7 @@ int main()
             cin >> G[i][j];
         }
     }
+    print(G, n)；
     return 0;
 }
 ```

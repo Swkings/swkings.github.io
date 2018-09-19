@@ -1,0 +1,132 @@
+* {
+    box-sizing: border-box;
+    font-family: '楷体';
+    margin: 0px;
+    padding: 0px;
+    font-size: 28px;
+    text-align: center;
+}
+
+.clearfloat:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+body {
+    background-image: url(http://cdn.swking.cn/Game/Game_2048/image1511837827460.jpg);
+    background-repeat: repeat-y;
+    background-size: cover;
+}
+
+.msg {
+    position: absolute;
+    border: 1px solid beige;
+    display: none;
+    justify-content: center;
+    /*实现水平居中*/
+    align-items: center;
+    /*实现垂直居中*/
+    flex-direction: column;
+    background-color: #f59563;
+    opacity: 0.8;
+}
+
+.restart {
+    margin-top: 25%;
+    background-color: #ac8e52;
+    border-radius: 10%;
+}
+
+.main {
+    margin: 0 auto;
+    background-color: #f5f0e3;
+    opacity: 0.75;
+}
+
+.main>div {
+    border: 1px solid rgba(162, 134, 77, 0.3);
+    float: left;
+    display: flex;
+    justify-content: center;
+    /*实现水平居中*/
+    align-items: center;
+    /*实现垂直居中*/
+}
+
+.grade {
+    margin: 0 auto;
+}
+
+.grade>div:nth-child(1) {
+    float: left;
+    /* margin-left: 5%; */
+    text-align: center;
+}
+
+.grade>div:nth-child(2) {
+    float: right;
+    /* margin-right: 5%; */
+    text-align: center;
+}
+
+.reset {
+    width: 160px;
+    background-color: #edc631;
+    border-radius: 5%;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+
+/*颜色*/
+
+.n0 {
+    background: #e6ecc8;
+}
+
+.n2 {
+    background: #e4c4a5;
+    color: #000;
+}
+
+.n4 {
+    background: #eece8c;
+    color: #000;
+}
+
+.n8 {
+    background: #f3b179;
+}
+
+.n16 {
+    background: #f59563;
+}
+
+.n32 {
+    background: #f67c5f;
+}
+
+.n64 {
+    background: #f65e3c;
+}
+
+.n128 {
+    background: #edce71;
+}
+
+.n256 {
+    background: #eccb61;
+}
+
+.n512 {
+    background: #edc750;
+}
+
+.n1024 {
+    background: #edc631;
+}
+
+.n2048 {
+    background: #edc12f;
+}
