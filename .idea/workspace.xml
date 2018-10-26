@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="209bf01f-bdef-4ae1-b41b-a8f46b9b0cc3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.deploy_git/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/about/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/archives/2017/05/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/archives/2017/05/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/archives/2017/05/page/2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/archives/2017/05/page/2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/archives/2017/12/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/archives/2017/12/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/archives/2017/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/archives/2017/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/archives/2017/page/2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/archives/2017/page/2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/archives/2018/02/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/archives/2018/02/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/archives/2018/03/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/archives/2018/03/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/archives/2018/04/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/archives/2018/04/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/archives/2018/04/page/2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/archives/2018/04/page/2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/archives/2018/05/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/archives/2018/05/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/archives/2018/06/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/archives/2018/06/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/archives/2018/09/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/archives/2018/09/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/archives/2018/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/archives/2018/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/archives/2018/page/2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/archives/2018/page/2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/archives/2018/page/3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/archives/2018/page/3/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/archives/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/archives/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/archives/page/2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/archives/page/2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/archives/page/3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/archives/page/3/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/archives/page/4/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/archives/page/4/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/categories/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/categories/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/categories/代码笔记/c/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/categories/代码笔记/c/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/categories/代码笔记/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/categories/代码笔记/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/categories/前端/JS/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/categories/前端/JS/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/categories/前端/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/categories/前端/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/categories/算法/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/categories/算法/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/categories/算法/分治法/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/categories/算法/分治法/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/categories/算法/并查集/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/categories/算法/并查集/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/categories/算法/贪心法/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/categories/算法/贪心法/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/categories/课程笔记/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/categories/课程笔记/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/categories/课程笔记/数据库/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/categories/课程笔记/数据库/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/categories/课程笔记/网管/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/categories/课程笔记/网管/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/categories/随笔/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/categories/随笔/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/categories/随笔/page/2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/categories/随笔/page/2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/categories/随笔/page/3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/categories/随笔/page/3/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/categories/随笔/散文/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/categories/随笔/散文/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/categories/随笔/散文/page/2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/categories/随笔/散文/page/2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/categories/随笔/诗词/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/categories/随笔/诗词/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/categories/随笔/诗词/page/2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/categories/随笔/诗词/page/2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/page/2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/page/2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/page/3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/page/3/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/page/4/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/page/4/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/project/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/project/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/swk/1516dd60/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/swk/1516dd60/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/swk/1f05d8fe/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/swk/1f05d8fe/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/swk/20c47d09/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/swk/20c47d09/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/swk/21375dac/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/swk/21375dac/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/swk/2b5399e2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/swk/2b5399e2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/swk/30d39a88/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/swk/30d39a88/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/swk/379db53/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/swk/379db53/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/swk/38b77f6c/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/swk/38b77f6c/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/swk/3b5ca8e9/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/swk/3b5ca8e9/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/swk/3cffcea3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/swk/3cffcea3/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/swk/460d61bc/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/swk/460d61bc/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/swk/4d342de1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/swk/4d342de1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/swk/4d712495/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/swk/4d712495/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/swk/58555cae/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/swk/58555cae/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/swk/6803498e/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/swk/6803498e/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/swk/6ebc1f2f/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/swk/6ebc1f2f/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/swk/7cd8691f/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/swk/7cd8691f/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/swk/7f187c1c/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/swk/7f187c1c/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/swk/89824c47/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/swk/89824c47/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/swk/8a8e3d4e/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/swk/8a8e3d4e/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/swk/9677accb/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/swk/9677accb/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/swk/98ba1448/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/swk/98ba1448/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/swk/a0901176/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/swk/a0901176/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/swk/abc0cfa6/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/swk/abc0cfa6/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/swk/ae8f8360/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/swk/ae8f8360/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/swk/b4de5a8f/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/swk/b4de5a8f/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/swk/be008391/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/swk/be008391/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/swk/c517589e/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/swk/c517589e/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/swk/cf0ad797/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/swk/cf0ad797/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/swk/d0257122/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/swk/d0257122/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/swk/d3a1d2d0/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/swk/d3a1d2d0/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/swk/d88d950a/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/swk/d88d950a/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/swk/d89385bf/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/swk/d89385bf/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/swk/dd7eec1b/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/swk/dd7eec1b/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/swk/dee220c1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/swk/dee220c1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/swk/f145fed6/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/swk/f145fed6/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/swk/f63341a7/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/swk/f63341a7/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/tags/Oracle/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/tags/Oracle/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/tags/PL-SQL/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/tags/PL-SQL/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/tags/TSP/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/tags/TSP/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/tags/apply/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/tags/apply/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/tags/bind/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/tags/bind/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/tags/call/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/tags/call/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/tags/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/tags/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/tags/三生三世/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/tags/三生三世/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/tags/二维数组传参/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/tags/二维数组传参/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/tags/人生/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/tags/人生/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/tags/人间失格/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/tags/人间失格/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/tags/你/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/tags/你/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/tags/入夜/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/tags/入夜/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/tags/入魔/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/tags/入魔/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/tags/关于你/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/tags/关于你/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/tags/关于你们/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/tags/关于你们/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/tags/关于我/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/tags/关于我/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/tags/军营情/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/tags/军营情/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/tags/军训/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/tags/军训/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/tags/冷暖色/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/tags/冷暖色/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/tags/分治/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/tags/分治/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/tags/听风雨/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/tags/听风雨/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/tags/因你而在/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/tags/因你而在/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/tags/坠落深渊/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/tags/坠落深渊/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/tags/寻你一千年/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/tags/寻你一千年/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/tags/寻卿/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/tags/寻卿/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/tags/并查集/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/tags/并查集/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/tags/循环赛日程表/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/tags/循环赛日程表/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/tags/快速幂/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/tags/快速幂/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/tags/思念/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/tags/思念/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/tags/感悟/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/tags/感悟/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/tags/愿做一株草/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/tags/愿做一株草/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/tags/改编/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/tags/改编/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/tags/旅行商/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/tags/旅行商/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/tags/最短路径/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/tags/最短路径/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/tags/梦里梦/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/tags/梦里梦/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/tags/梦魇/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/tags/梦魇/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/tags/沁园春/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/tags/沁园春/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/tags/海月间/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/tags/海月间/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/tags/清明/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/tags/清明/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/tags/湘大晨色/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/tags/湘大晨色/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/tags/狂人/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/tags/狂人/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/tags/献予不眠/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/tags/献予不眠/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/tags/琐窗寒/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/tags/琐窗寒/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/tags/相忘/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/tags/相忘/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/tags/相思/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/tags/相思/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/tags/算法/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/tags/算法/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/tags/缥缈云烟/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/tags/缥缈云烟/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/tags/美景/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/tags/美景/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/tags/蝶恋花/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/tags/蝶恋花/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/tags/读后感/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/tags/读后感/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/tags/路由器配置/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/tags/路由器配置/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/tags/青春梦/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/tags/青春梦/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deploy_git/tags/青玉案/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git/tags/青玉案/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/20180606121433.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/愿做一株草.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/愿做一株草.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/我在乎你，可我不记得你.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/我在乎你，可我不记得你.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/相忘.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/相忘.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next" beforeDir="false" afterPath="$PROJECT_DIR$/themes/next" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/next/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next/languages/en.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/next/languages/en.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next/languages/zh-Hans.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/next/languages/zh-Hans.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next/layout/_layout.swig" beforeDir="false" afterPath="$PROJECT_DIR$/themes/next/layout/_layout.swig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next/layout/_macro/post.swig" beforeDir="false" afterPath="$PROJECT_DIR$/themes/next/layout/_macro/post.swig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next/layout/_macro/sidebar.swig" beforeDir="false" afterPath="$PROJECT_DIR$/themes/next/layout/_macro/sidebar.swig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next/layout/_partials/footer.swig" beforeDir="false" afterPath="$PROJECT_DIR$/themes/next/layout/_partials/footer.swig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next/layout/_partials/head.swig" beforeDir="false" afterPath="$PROJECT_DIR$/themes/next/layout/_partials/head.swig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next/layout/_partials/header.swig" beforeDir="false" afterPath="$PROJECT_DIR$/themes/next/layout/_partials/header.swig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next/layout/_scripts/vendors.swig" beforeDir="false" afterPath="$PROJECT_DIR$/themes/next/layout/_scripts/vendors.swig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next/layout/_third-party/analytics/busuanzi-counter.swig" beforeDir="false" afterPath="$PROJECT_DIR$/themes/next/layout/_third-party/analytics/busuanzi-counter.swig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next/layout/_third-party/comments/gitment.swig" beforeDir="false" afterPath="$PROJECT_DIR$/themes/next/layout/_third-party/comments/gitment.swig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next/layout/archive.swig" beforeDir="false" afterPath="$PROJECT_DIR$/themes/next/layout/archive.swig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next/layout/index.swig" beforeDir="false" afterPath="$PROJECT_DIR$/themes/next/layout/index.swig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next/source/css/_common/components/post/post-reward.styl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/next/source/css/_common/components/post/post-reward.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next/source/css/_common/components/third-party/algolia-search.styl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/next/source/css/_common/components/third-party/algolia-search.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next/source/css/_common/scaffolding/base.styl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/next/source/css/_common/scaffolding/base.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next/source/css/_custom/custom.styl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/next/source/css/_custom/custom.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next/source/css/_variables/base.styl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/next/source/css/_variables/base.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next/source/lib/canvas-nest/canvas-nest.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/themes/next/source/lib/canvas-nest/canvas-nest.min.js" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-186483355">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="7" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.4" value="2" />
+          <entry key="project.open.time.6" value="2" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="1" />
+          <entry key="html" value="1" />
+          <entry key="js" value="1" />
+          <entry key="json" value="1" />
+          <entry key="swig" value="5" />
+          <entry key="yml" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="1" />
+          <entry key="HTML" value="1" />
+          <entry key="JSON" value="1" />
+          <entry key="JavaScript" value="1" />
+          <entry key="PLAIN_TEXT" value="5" />
+          <entry key="YAML" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="css" value="29" />
+          <entry key="js" value="22" />
+          <entry key="swig" value="1" />
+          <entry key="yml" value="61" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="29" />
+          <entry key="JavaScript" value="22" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="YAML" value="61" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts" />
+      <usages-collector id="statistics.vcs.git.usages" />
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/next/_config.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="113">
+              <caret line="554" column="21" selection-start-line="554" selection-start-column="21" selection-end-line="554" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="34" column="17" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="71" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/next/layout/_third-party/analytics/busuanzi-counter.swig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="46">
+              <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="86" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>busuanzi_count</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/public/project/project/Game_2048/JS/Game_2048.js" />
+        <option value="$PROJECT_DIR$/public/project/project/Game_2048/index.html" />
+        <option value="$PROJECT_DIR$/public/project/project/Game_2048/CSS/Game_2048.css" />
+        <option value="$PROJECT_DIR$/themes/next/_config.yml" />
+        <option value="$PROJECT_DIR$/themes/next/layout/_third-party/analytics/busuanzi-counter.swig" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <gulpfiles>
+      <GulpfileState>
+        <gulpfile-path>$PROJECT_DIR$/gulpfile.js</gulpfile-path>
+        <tasks>
+          <GulpTaskState>
+            <task-name>Htmlmin</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>Cssmin</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <dependencies>
+              <dependency value="Htmlmin" />
+              <dependency value="Cssmin" />
+            </dependencies>
+            <task-name>default</task-name>
+          </GulpTaskState>
+        </tasks>
+      </GulpfileState>
+    </gulpfiles>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+      <path value="$PROJECT_DIR$/themes/landscape/package.json" />
+      <path value="$PROJECT_DIR$/themes/next/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="130" />
+    <option name="y" value="37" />
+    <option name="width" value="1750" />
+    <option name="height" value="1030" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="swking.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="swking.github.io" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.buildTools.gulp.gulp_package_dir" value="$PROJECT_DIR$/node_modules/gulp" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="209bf01f-bdef-4ae1-b41b-a8f46b9b0cc3" name="Default Changelist" comment="" />
+      <created>1537373215851</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1537373215851</updated>
+      <workItem from="1537373219700" duration="1431000" />
+      <workItem from="1537374675167" duration="420000" />
+      <workItem from="1537415213805" duration="269000" />
+      <workItem from="1540529333399" duration="256000" />
+      <workItem from="1540529622637" duration="745000" />
+      <workItem from="1540530415201" duration="125000" />
+      <workItem from="1540531388096" duration="2994000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="6240000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="104" y="30" width="1400" height="824" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4990138" visible="true" weight="0.32258064" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Gulp" order="2" sideWeight="0.5009862" side_tool="true" weight="0.21223958" />
+      <window_info id="npm" order="3" side_tool="true" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.33195022" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.35155097" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/public/project/project/Game_2048/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/project/project/Game_2048/JS/Game_2048.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="193" column="17" selection-start-line="193" selection-start-column="17" selection-end-line="193" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/project/project/Game_2048/CSS/Game_2048.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/next/layout/_partials/footer.swig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-414" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/next/layout/_partials/header.swig">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/next/layout/_layout.swig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1449" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/next/layout/_third-party/analytics/busuanzi-counter.swig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/next/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="554" column="21" selection-start-line="554" selection-start-column="21" selection-end-line="554" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="34" column="17" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
